@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "intern_task",
+    "slug": "intern_task",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
